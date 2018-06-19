@@ -1,1 +1,1 @@
-# gits
+Training exercises
